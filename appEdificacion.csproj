@@ -71,7 +71,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Datos\Class1.cs" />
-    <Compile Include="Entidades\Class1.cs" />
+    <Compile Include="Entidades\clEmpresaE.cs" />
     <Compile Include="Logica\Class1.cs" />
     <Compile Include="Presentacion\Class1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
